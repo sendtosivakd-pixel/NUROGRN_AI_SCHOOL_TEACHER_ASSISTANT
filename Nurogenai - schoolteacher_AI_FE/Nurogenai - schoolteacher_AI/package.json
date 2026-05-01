@@ -1,0 +1,20 @@
+{
+  "name": "student-analytics-agent-platform",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "npm@11.12.1",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev --workspace @nuro/web",
+    "build:web": "npm run build --workspace @nuro/web",
+    "lint:web": "npm run lint --workspace @nuro/web",
+    "typecheck:web": "npm run typecheck --workspace @nuro/web",
+    "dev:api": "uv run --project services/api uvicorn app.main:app --app-dir services/api --reload",
+    "test:api": "uv run --project services/api pytest",
+    "db:up": "docker compose -f packages/config/docker-compose.yml up -d",
+    "db:down": "docker compose -f packages/config/docker-compose.yml down"
+  }
+}

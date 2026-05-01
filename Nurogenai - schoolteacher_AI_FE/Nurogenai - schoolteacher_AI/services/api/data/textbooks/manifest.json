@@ -1,0 +1,1511 @@
+{
+  "source": "Tamil Nadu official textbooks dataset",
+  "dataset_root": "/Users/karthickrajan/.openclaw/workspace/ameer test folders",
+  "count": 188,
+  "books": [
+    {
+      "standard": 1,
+      "medium": "Hindi",
+      "subject": "HINDI READER",
+      "term": "Term-I",
+      "title": "1 Std Hindi HINDI READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/1 std/Hindi/HINDI READER/Term-I.pdf"
+    },
+    {
+      "standard": 1,
+      "medium": "Kannada",
+      "subject": "KANNADA READER",
+      "term": "Term-I",
+      "title": "1 Std Kannada KANNADA READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/1 std/Kannada/KANNADA READER/Term-I.pdf"
+    },
+    {
+      "standard": 1,
+      "medium": "Tamil",
+      "subject": "TAMIL(CBSE)",
+      "term": "Term-I",
+      "title": "1 Std Tamil TAMIL(CBSE) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/1 std/Tamil/TAMIL(CBSE)/Term-I.pdf"
+    },
+    {
+      "standard": 1,
+      "medium": "Telugu",
+      "subject": "TELUGU READER",
+      "term": "Term-I",
+      "title": "1 Std Telugu TELUGU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/1 std/Telugu/TELUGU READER/Term-I.pdf"
+    },
+    {
+      "standard": 1,
+      "medium": "Urdu",
+      "subject": "URDU READER",
+      "term": "Term-I",
+      "title": "1 Std Urdu URDU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/1 std/Urdu/URDU READER/Term-I.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Arabic",
+      "subject": "Arabic Reader",
+      "term": "Term-Full",
+      "title": "10 Std Arabic Arabic Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Arabic/Arabic Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "English",
+      "subject": "English",
+      "term": "Term-Full",
+      "title": "10 Std English English Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/English/English/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "English",
+      "subject": "Science",
+      "term": "Term-Full",
+      "title": "10 Std English Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/English/Science/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "French",
+      "subject": "French Reader",
+      "term": "Term-Full",
+      "title": "10 Std French French Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/French/French Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Hindi",
+      "subject": "Hindi Reader",
+      "term": "Term-Full",
+      "title": "10 Std Hindi Hindi Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Hindi/Hindi Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Kannada",
+      "subject": "Kannada Reader",
+      "term": "Term-Full",
+      "title": "10 Std Kannada Kannada Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Kannada/Kannada Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Malayalam",
+      "subject": "Science",
+      "term": "Term-Full",
+      "title": "10 Std Malayalam Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Malayalam/Science/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Tamil",
+      "subject": "Science",
+      "term": "Term-Full",
+      "title": "10 Std Tamil Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Tamil/Science/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Tamil",
+      "subject": "Tamil",
+      "term": "Term-Full",
+      "title": "10 Std Tamil Tamil Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Tamil/Tamil/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Telugu",
+      "subject": "Mathematics",
+      "term": "Term-Full",
+      "title": "10 Std Telugu Mathematics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Telugu/Mathematics/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Telugu",
+      "subject": "Science",
+      "term": "Term-Full",
+      "title": "10 Std Telugu Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Telugu/Science/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Telugu",
+      "subject": "Telugu Reader",
+      "term": "Term-Full",
+      "title": "10 Std Telugu Telugu Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Telugu/Telugu Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Urdu",
+      "subject": "Mathematics",
+      "term": "Term-Full",
+      "title": "10 Std Urdu Mathematics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Urdu/Mathematics/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Urdu",
+      "subject": "Science",
+      "term": "Term-Full",
+      "title": "10 Std Urdu Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Urdu/Science/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Urdu",
+      "subject": "Social Science",
+      "term": "Term-Full",
+      "title": "10 Std Urdu Social Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Urdu/Social Science/Term-Full.pdf"
+    },
+    {
+      "standard": 10,
+      "medium": "Urdu",
+      "subject": "Urdu Reader",
+      "term": "Term-Full",
+      "title": "10 Std Urdu Urdu Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/10 std/Urdu/Urdu Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Arabic",
+      "subject": "Arabic Reader",
+      "term": "Term-Full",
+      "title": "11 Std Arabic Arabic Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Arabic/Arabic Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "Accountancy",
+      "term": "Term-Full",
+      "title": "11 Std English Accountancy Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/Accountancy/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "Bio-Chemistry",
+      "term": "Term-Full",
+      "title": "11 Std English Bio-Chemistry Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/Bio-Chemistry/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "Bio-Zoology",
+      "term": "Term-Full",
+      "title": "11 Std English Bio-Zoology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/Bio-Zoology/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "Botany",
+      "term": "Term-Full",
+      "title": "11 Std English Botany Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/Botany/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "Commerce",
+      "term": "Term-Full",
+      "title": "11 Std English Commerce Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/Commerce/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "Economics",
+      "term": "Term-Full",
+      "title": "11 Std English Economics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/Economics/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "Geography",
+      "term": "Term-Full",
+      "title": "11 Std English Geography Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/Geography/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "History",
+      "term": "Term-Full",
+      "title": "11 Std English History Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/History/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "Micro Biology",
+      "term": "Term-Full",
+      "title": "11 Std English Micro Biology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/Micro Biology/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "Office Mangement and Secretaryship",
+      "term": "Term-Full",
+      "title": "11 Std English Office Mangement and Secretaryship Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/Office Mangement and Secretaryship/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "Statistics",
+      "term": "Term-Full",
+      "title": "11 Std English Statistics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/Statistics/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "English",
+      "subject": "Zoology",
+      "term": "Term-Full",
+      "title": "11 Std English Zoology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/English/Zoology/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "French",
+      "subject": "French Reader",
+      "term": "Term-Full",
+      "title": "11 Std French French Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/French/French Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "German",
+      "subject": "German Reader",
+      "term": "Term-Full",
+      "title": "11 Std German German Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/German/German Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Hindi",
+      "subject": "Hindi Reader",
+      "term": "Term-Full",
+      "title": "11 Std Hindi Hindi Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Hindi/Hindi Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Kannada",
+      "subject": "Kannada Reader",
+      "term": "Term-Full",
+      "title": "11 Std Kannada Kannada Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Kannada/Kannada Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Malayalam",
+      "subject": "GEOGRAPHY",
+      "term": "Term-Full",
+      "title": "11 Std Malayalam GEOGRAPHY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Malayalam/GEOGRAPHY/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Malayalam",
+      "subject": "HISTORY",
+      "term": "Term-Full",
+      "title": "11 Std Malayalam HISTORY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Malayalam/HISTORY/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Malayalam",
+      "subject": "MATHS VOL - I",
+      "term": "Term-Full",
+      "title": "11 Std Malayalam MATHS VOL - I Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Malayalam/MATHS VOL - I/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Malayalam",
+      "subject": "PHYSICS VOL - II",
+      "term": "Term-Full",
+      "title": "11 Std Malayalam PHYSICS VOL - II Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Malayalam/PHYSICS VOL - II/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Malayalam",
+      "subject": "ZOOLOGY",
+      "term": "Term-Full",
+      "title": "11 Std Malayalam ZOOLOGY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Malayalam/ZOOLOGY/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Tamil",
+      "subject": "Accountancy",
+      "term": "Term-Full",
+      "title": "11 Std Tamil Accountancy Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Tamil/Accountancy/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Tamil",
+      "subject": "Bio-Chemistry",
+      "term": "Term-Full",
+      "title": "11 Std Tamil Bio-Chemistry Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Tamil/Bio-Chemistry/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Tamil",
+      "subject": "Bio-Zoology",
+      "term": "Term-Full",
+      "title": "11 Std Tamil Bio-Zoology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Tamil/Bio-Zoology/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Tamil",
+      "subject": "Botany",
+      "term": "Term-Full",
+      "title": "11 Std Tamil Botany Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Tamil/Botany/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Tamil",
+      "subject": "Commerce",
+      "term": "Term-Full",
+      "title": "11 Std Tamil Commerce Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Tamil/Commerce/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Tamil",
+      "subject": "Economics",
+      "term": "Term-Full",
+      "title": "11 Std Tamil Economics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Tamil/Economics/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Tamil",
+      "subject": "Geography",
+      "term": "Term-Full",
+      "title": "11 Std Tamil Geography Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Tamil/Geography/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Tamil",
+      "subject": "History",
+      "term": "Term-Full",
+      "title": "11 Std Tamil History Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Tamil/History/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Tamil",
+      "subject": "Micro Biology",
+      "term": "Term-Full",
+      "title": "11 Std Tamil Micro Biology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Tamil/Micro Biology/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Tamil",
+      "subject": "Statistics",
+      "term": "Term-Full",
+      "title": "11 Std Tamil Statistics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Tamil/Statistics/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Tamil",
+      "subject": "Zoology",
+      "term": "Term-Full",
+      "title": "11 Std Tamil Zoology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Tamil/Zoology/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Telugu",
+      "subject": "ACCOUNTANCY",
+      "term": "Term-Full",
+      "title": "11 Std Telugu ACCOUNTANCY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Telugu/ACCOUNTANCY/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Telugu",
+      "subject": "CHEMISTRY VOL - II",
+      "term": "Term-Full",
+      "title": "11 Std Telugu CHEMISTRY VOL - II Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Telugu/CHEMISTRY VOL - II/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Telugu",
+      "subject": "COMMERCE",
+      "term": "Term-Full",
+      "title": "11 Std Telugu COMMERCE Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Telugu/COMMERCE/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Telugu",
+      "subject": "ECONOMICS",
+      "term": "Term-Full",
+      "title": "11 Std Telugu ECONOMICS Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Telugu/ECONOMICS/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Telugu",
+      "subject": "GEOGRAPHY",
+      "term": "Term-Full",
+      "title": "11 Std Telugu GEOGRAPHY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Telugu/GEOGRAPHY/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Telugu",
+      "subject": "MATHS VOL - I",
+      "term": "Term-Full",
+      "title": "11 Std Telugu MATHS VOL - I Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Telugu/MATHS VOL - I/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Telugu",
+      "subject": "MATHS VOL - II",
+      "term": "Term-Full",
+      "title": "11 Std Telugu MATHS VOL - II Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Telugu/MATHS VOL - II/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Telugu",
+      "subject": "PHYSICS VOL - I",
+      "term": "Term-Full",
+      "title": "11 Std Telugu PHYSICS VOL - I Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Telugu/PHYSICS VOL - I/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Telugu",
+      "subject": "POLITICAL SCIENCE",
+      "term": "Term-Full",
+      "title": "11 Std Telugu POLITICAL SCIENCE Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Telugu/POLITICAL SCIENCE/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Telugu",
+      "subject": "Telugu Reader",
+      "term": "Term-Full",
+      "title": "11 Std Telugu Telugu Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Telugu/Telugu Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Telugu",
+      "subject": "ZOOLOGY",
+      "term": "Term-Full",
+      "title": "11 Std Telugu ZOOLOGY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Telugu/ZOOLOGY/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Urdu",
+      "subject": "CHEMISTRY VOL - II",
+      "term": "Term-Full",
+      "title": "11 Std Urdu CHEMISTRY VOL - II Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Urdu/CHEMISTRY VOL - II/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Urdu",
+      "subject": "COMPUTER APPLICATION",
+      "term": "Term-Full",
+      "title": "11 Std Urdu COMPUTER APPLICATION Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Urdu/COMPUTER APPLICATION/Term-Full.pdf"
+    },
+    {
+      "standard": 11,
+      "medium": "Urdu",
+      "subject": "Urdu Reader",
+      "term": "Term-Full",
+      "title": "11 Std Urdu Urdu Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/11 std/Urdu/Urdu Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Arabic",
+      "subject": "Arabic Reader",
+      "term": "Term-Full",
+      "title": "12 Std Arabic Arabic Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Arabic/Arabic Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Accountancy",
+      "term": "Term-Full",
+      "title": "12 Std English Accountancy Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Accountancy/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Bio-Chemistry",
+      "term": "Term-Full",
+      "title": "12 Std English Bio-Chemistry Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Bio-Chemistry/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Bio-Zoology",
+      "term": "Term-Full",
+      "title": "12 Std English Bio-Zoology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Bio-Zoology/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Botany",
+      "term": "Term-Full",
+      "title": "12 Std English Botany Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Botany/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Chemistry (Vol I)",
+      "term": "Term-Full",
+      "title": "12 Std English Chemistry (Vol I) Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Chemistry (Vol I)/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Commerce",
+      "term": "Term-Full",
+      "title": "12 Std English Commerce Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Commerce/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Economics",
+      "term": "Term-Full",
+      "title": "12 Std English Economics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Economics/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Geography",
+      "term": "Term-Full",
+      "title": "12 Std English Geography Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Geography/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "History",
+      "term": "Term-Full",
+      "title": "12 Std English History Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/History/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Micro Biology",
+      "term": "Term-Full",
+      "title": "12 Std English Micro Biology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Micro Biology/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Office Mangement and Secretaryship",
+      "term": "Term-Full",
+      "title": "12 Std English Office Mangement and Secretaryship Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Office Mangement and Secretaryship/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Statistics",
+      "term": "Term-Full",
+      "title": "12 Std English Statistics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Statistics/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "English",
+      "subject": "Zoology",
+      "term": "Term-Full",
+      "title": "12 Std English Zoology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/English/Zoology/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "French",
+      "subject": "French Reader",
+      "term": "Term-Full",
+      "title": "12 Std French French Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/French/French Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "German",
+      "subject": "German Reader",
+      "term": "Term-Full",
+      "title": "12 Std German German Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/German/German Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Hindi",
+      "subject": "Hindi Reader",
+      "term": "Term-Full",
+      "title": "12 Std Hindi Hindi Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Hindi/Hindi Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Kannada",
+      "subject": "Kannada Reader",
+      "term": "Term-Full",
+      "title": "12 Std Kannada Kannada Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Kannada/Kannada Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Malayalam",
+      "subject": "ECONOMICS",
+      "term": "Term-Full",
+      "title": "12 Std Malayalam ECONOMICS Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Malayalam/ECONOMICS/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Malayalam",
+      "subject": "PHYSICS VOL - I",
+      "term": "Term-Full",
+      "title": "12 Std Malayalam PHYSICS VOL - I Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Malayalam/PHYSICS VOL - I/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "Accountancy",
+      "term": "Term-Full",
+      "title": "12 Std Tamil Accountancy Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/Accountancy/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "Bio-Chemistry",
+      "term": "Term-Full",
+      "title": "12 Std Tamil Bio-Chemistry Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/Bio-Chemistry/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "Bio-Zoology",
+      "term": "Term-Full",
+      "title": "12 Std Tamil Bio-Zoology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/Bio-Zoology/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "Botany",
+      "term": "Term-Full",
+      "title": "12 Std Tamil Botany Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/Botany/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "Commerce",
+      "term": "Term-Full",
+      "title": "12 Std Tamil Commerce Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/Commerce/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "Economics",
+      "term": "Term-Full",
+      "title": "12 Std Tamil Economics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/Economics/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "Geography",
+      "term": "Term-Full",
+      "title": "12 Std Tamil Geography Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/Geography/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "History",
+      "term": "Term-Full",
+      "title": "12 Std Tamil History Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/History/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "Micro Biology",
+      "term": "Term-Full",
+      "title": "12 Std Tamil Micro Biology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/Micro Biology/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "Office Mangement and Secretaryship",
+      "term": "Term-Full",
+      "title": "12 Std Tamil Office Mangement and Secretaryship Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/Office Mangement and Secretaryship/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "Statistics",
+      "term": "Term-Full",
+      "title": "12 Std Tamil Statistics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/Statistics/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Tamil",
+      "subject": "Zoology",
+      "term": "Term-Full",
+      "title": "12 Std Tamil Zoology Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Tamil/Zoology/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "ACCOUNTANCY",
+      "term": "Term-Full",
+      "title": "12 Std Telugu ACCOUNTANCY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/ACCOUNTANCY/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "BIO - BOTANY",
+      "term": "Term-Full",
+      "title": "12 Std Telugu BIO - BOTANY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/BIO - BOTANY/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "BIO - ZOOLOGY",
+      "term": "Term-Full",
+      "title": "12 Std Telugu BIO - ZOOLOGY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/BIO - ZOOLOGY/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "BOTANY",
+      "term": "Term-Full",
+      "title": "12 Std Telugu BOTANY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/BOTANY/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "CHEMISTRY VOL - II",
+      "term": "Term-Full",
+      "title": "12 Std Telugu CHEMISTRY VOL - II Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/CHEMISTRY VOL - II/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "COMMERCE",
+      "term": "Term-Full",
+      "title": "12 Std Telugu COMMERCE Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/COMMERCE/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "COMPUTER APPLICATION",
+      "term": "Term-Full",
+      "title": "12 Std Telugu COMPUTER APPLICATION Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/COMPUTER APPLICATION/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "COMPUTER SCIENCE",
+      "term": "Term-Full",
+      "title": "12 Std Telugu COMPUTER SCIENCE Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/COMPUTER SCIENCE/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "ECONOMICS",
+      "term": "Term-Full",
+      "title": "12 Std Telugu ECONOMICS Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/ECONOMICS/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "GEOGRAPHY",
+      "term": "Term-Full",
+      "title": "12 Std Telugu GEOGRAPHY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/GEOGRAPHY/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "HISTORY",
+      "term": "Term-Full",
+      "title": "12 Std Telugu HISTORY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/HISTORY/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "MATHS VOL - II",
+      "term": "Term-Full",
+      "title": "12 Std Telugu MATHS VOL - II Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/MATHS VOL - II/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "PHYSICS VOL - I",
+      "term": "Term-Full",
+      "title": "12 Std Telugu PHYSICS VOL - I Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/PHYSICS VOL - I/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "PHYSICS VOL - II",
+      "term": "Term-Full",
+      "title": "12 Std Telugu PHYSICS VOL - II Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/PHYSICS VOL - II/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "POLITICAL SCIENCE",
+      "term": "Term-Full",
+      "title": "12 Std Telugu POLITICAL SCIENCE Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/POLITICAL SCIENCE/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "Telugu Reader",
+      "term": "Term-Full",
+      "title": "12 Std Telugu Telugu Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/Telugu Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Telugu",
+      "subject": "ZOOLOGY",
+      "term": "Term-Full",
+      "title": "12 Std Telugu ZOOLOGY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Telugu/ZOOLOGY/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Urdu",
+      "subject": "BIO - BOTANY",
+      "term": "Term-Full",
+      "title": "12 Std Urdu BIO - BOTANY Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Urdu/BIO - BOTANY/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Urdu",
+      "subject": "COMPUTER APPLICATION",
+      "term": "Term-Full",
+      "title": "12 Std Urdu COMPUTER APPLICATION Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Urdu/COMPUTER APPLICATION/Term-Full.pdf"
+    },
+    {
+      "standard": 12,
+      "medium": "Urdu",
+      "subject": "Urdu Reader",
+      "term": "Term-Full",
+      "title": "12 Std Urdu Urdu Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/12 std/Urdu/Urdu Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 2,
+      "medium": "Hindi",
+      "subject": "HINDI READER",
+      "term": "Term-I",
+      "title": "2 Std Hindi HINDI READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/2 std/Hindi/HINDI READER/Term-I.pdf"
+    },
+    {
+      "standard": 2,
+      "medium": "Kannada",
+      "subject": "KANNADA READER",
+      "term": "Term-I",
+      "title": "2 Std Kannada KANNADA READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/2 std/Kannada/KANNADA READER/Term-I.pdf"
+    },
+    {
+      "standard": 2,
+      "medium": "Tamil",
+      "subject": "TAMIL(CBSE)",
+      "term": "Term-I",
+      "title": "2 Std Tamil TAMIL(CBSE) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/2 std/Tamil/TAMIL(CBSE)/Term-I.pdf"
+    },
+    {
+      "standard": 2,
+      "medium": "Telugu",
+      "subject": "TELUGU READER",
+      "term": "Term-I",
+      "title": "2 Std Telugu TELUGU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/2 std/Telugu/TELUGU READER/Term-I.pdf"
+    },
+    {
+      "standard": 2,
+      "medium": "Urdu",
+      "subject": "URDU READER",
+      "term": "Term-I",
+      "title": "2 Std Urdu URDU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/2 std/Urdu/URDU READER/Term-I.pdf"
+    },
+    {
+      "standard": 3,
+      "medium": "Hindi",
+      "subject": "HINDI READER",
+      "term": "Term-I",
+      "title": "3 Std Hindi HINDI READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/3 std/Hindi/HINDI READER/Term-I.pdf"
+    },
+    {
+      "standard": 3,
+      "medium": "Kannada",
+      "subject": "KANNADA READER",
+      "term": "Term-I",
+      "title": "3 Std Kannada KANNADA READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/3 std/Kannada/KANNADA READER/Term-I.pdf"
+    },
+    {
+      "standard": 3,
+      "medium": "Tamil",
+      "subject": "TAMIL(CBSE)",
+      "term": "Term-I",
+      "title": "3 Std Tamil TAMIL(CBSE) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/3 std/Tamil/TAMIL(CBSE)/Term-I.pdf"
+    },
+    {
+      "standard": 3,
+      "medium": "Telugu",
+      "subject": "TELUGU READER",
+      "term": "Term-I",
+      "title": "3 Std Telugu TELUGU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/3 std/Telugu/TELUGU READER/Term-I.pdf"
+    },
+    {
+      "standard": 3,
+      "medium": "Urdu",
+      "subject": "URDU READER",
+      "term": "Term-I",
+      "title": "3 Std Urdu URDU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/3 std/Urdu/URDU READER/Term-I.pdf"
+    },
+    {
+      "standard": 4,
+      "medium": "Hindi",
+      "subject": "HINDI READER",
+      "term": "Term-I",
+      "title": "4 Std Hindi HINDI READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/4 std/Hindi/HINDI READER/Term-I.pdf"
+    },
+    {
+      "standard": 4,
+      "medium": "Kannada",
+      "subject": "KANNADA READER",
+      "term": "Term-I",
+      "title": "4 Std Kannada KANNADA READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/4 std/Kannada/KANNADA READER/Term-I.pdf"
+    },
+    {
+      "standard": 4,
+      "medium": "Tamil",
+      "subject": "TAMIL(CBSE)",
+      "term": "Term-I",
+      "title": "4 Std Tamil TAMIL(CBSE) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/4 std/Tamil/TAMIL(CBSE)/Term-I.pdf"
+    },
+    {
+      "standard": 4,
+      "medium": "Telugu",
+      "subject": "TELUGU READER",
+      "term": "Term-I",
+      "title": "4 Std Telugu TELUGU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/4 std/Telugu/TELUGU READER/Term-I.pdf"
+    },
+    {
+      "standard": 4,
+      "medium": "Telugu",
+      "subject": "VOL-II (MATHS, SCIENCE & SOCIAL)",
+      "term": "Term-I",
+      "title": "4 Std Telugu VOL-II (MATHS, SCIENCE & SOCIAL) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/4 std/Telugu/VOL-II (MATHS, SCIENCE & SOCIAL)/Term-I.pdf"
+    },
+    {
+      "standard": 4,
+      "medium": "Urdu",
+      "subject": "URDU READER",
+      "term": "Term-I",
+      "title": "4 Std Urdu URDU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/4 std/Urdu/URDU READER/Term-I.pdf"
+    },
+    {
+      "standard": 5,
+      "medium": "Hindi",
+      "subject": "HINDI READER",
+      "term": "Term-I",
+      "title": "5 Std Hindi HINDI READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/5 std/Hindi/HINDI READER/Term-I.pdf"
+    },
+    {
+      "standard": 5,
+      "medium": "Kannada",
+      "subject": "KANNADA READER",
+      "term": "Term-I",
+      "title": "5 Std Kannada KANNADA READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/5 std/Kannada/KANNADA READER/Term-I.pdf"
+    },
+    {
+      "standard": 5,
+      "medium": "Tamil",
+      "subject": "TAMIL(CBSE)",
+      "term": "Term-I",
+      "title": "5 Std Tamil TAMIL(CBSE) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/5 std/Tamil/TAMIL(CBSE)/Term-I.pdf"
+    },
+    {
+      "standard": 5,
+      "medium": "Telugu",
+      "subject": "TELUGU READER",
+      "term": "Term-I",
+      "title": "5 Std Telugu TELUGU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/5 std/Telugu/TELUGU READER/Term-I.pdf"
+    },
+    {
+      "standard": 5,
+      "medium": "Telugu",
+      "subject": "VOL-II (MATHS, SCIENCE & SOCIAL)",
+      "term": "Term-I",
+      "title": "5 Std Telugu VOL-II (MATHS, SCIENCE & SOCIAL) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/5 std/Telugu/VOL-II (MATHS, SCIENCE & SOCIAL)/Term-I.pdf"
+    },
+    {
+      "standard": 5,
+      "medium": "Urdu",
+      "subject": "URDU READER",
+      "term": "Term-I",
+      "title": "5 Std Urdu URDU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/5 std/Urdu/URDU READER/Term-I.pdf"
+    },
+    {
+      "standard": 6,
+      "medium": "Arabic",
+      "subject": "ARABIC READER",
+      "term": "Term-I",
+      "title": "6 Std Arabic ARABIC READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/6 std/Arabic/ARABIC READER/Term-I.pdf"
+    },
+    {
+      "standard": 6,
+      "medium": "English",
+      "subject": "VOL - II (MATHS)",
+      "term": "Term-I",
+      "title": "6 Std English VOL - II (MATHS) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/6 std/English/VOL - II (MATHS)/Term-I.pdf"
+    },
+    {
+      "standard": 6,
+      "medium": "French",
+      "subject": "FRENCH READER",
+      "term": "Term-I",
+      "title": "6 Std French FRENCH READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/6 std/French/FRENCH READER/Term-I.pdf"
+    },
+    {
+      "standard": 6,
+      "medium": "Hindi",
+      "subject": "HINDI READER",
+      "term": "Term-I",
+      "title": "6 Std Hindi HINDI READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/6 std/Hindi/HINDI READER/Term-I.pdf"
+    },
+    {
+      "standard": 6,
+      "medium": "Kannada",
+      "subject": "KANNADA READER",
+      "term": "Term-I",
+      "title": "6 Std Kannada KANNADA READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/6 std/Kannada/KANNADA READER/Term-I.pdf"
+    },
+    {
+      "standard": 6,
+      "medium": "Tamil",
+      "subject": "TAMIL(CBSE)",
+      "term": "Term-I",
+      "title": "6 Std Tamil TAMIL(CBSE) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/6 std/Tamil/TAMIL(CBSE)/Term-I.pdf"
+    },
+    {
+      "standard": 6,
+      "medium": "Tamil",
+      "subject": "VOL - II (MATHS)",
+      "term": "Term-I",
+      "title": "6 Std Tamil VOL - II (MATHS) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/6 std/Tamil/VOL - II (MATHS)/Term-I.pdf"
+    },
+    {
+      "standard": 6,
+      "medium": "Telugu",
+      "subject": "TELUGU READER",
+      "term": "Term-I",
+      "title": "6 Std Telugu TELUGU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/6 std/Telugu/TELUGU READER/Term-I.pdf"
+    },
+    {
+      "standard": 6,
+      "medium": "Urdu",
+      "subject": "URDU READER",
+      "term": "Term-I",
+      "title": "6 Std Urdu URDU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/6 std/Urdu/URDU READER/Term-I.pdf"
+    },
+    {
+      "standard": 7,
+      "medium": "English",
+      "subject": "VOL - II (MATHS)",
+      "term": "Term-I",
+      "title": "7 Std English VOL - II (MATHS) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/7 std/English/VOL - II (MATHS)/Term-I.pdf"
+    },
+    {
+      "standard": 7,
+      "medium": "French",
+      "subject": "FRENCH READER",
+      "term": "Term-I",
+      "title": "7 Std French FRENCH READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/7 std/French/FRENCH READER/Term-I.pdf"
+    },
+    {
+      "standard": 7,
+      "medium": "Hindi",
+      "subject": "HINDI READER",
+      "term": "Term-I",
+      "title": "7 Std Hindi HINDI READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/7 std/Hindi/HINDI READER/Term-I.pdf"
+    },
+    {
+      "standard": 7,
+      "medium": "Kannada",
+      "subject": "KANNADA READER",
+      "term": "Term-I",
+      "title": "7 Std Kannada KANNADA READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/7 std/Kannada/KANNADA READER/Term-I.pdf"
+    },
+    {
+      "standard": 7,
+      "medium": "Sanskrit",
+      "subject": "ARABIC READER",
+      "term": "Term-I",
+      "title": "7 Std Sanskrit ARABIC READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/7 std/Sanskrit/ARABIC READER/Term-I.pdf"
+    },
+    {
+      "standard": 7,
+      "medium": "Tamil",
+      "subject": "TAMIL(CBSE)",
+      "term": "Term-I",
+      "title": "7 Std Tamil TAMIL(CBSE) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/7 std/Tamil/TAMIL(CBSE)/Term-I.pdf"
+    },
+    {
+      "standard": 7,
+      "medium": "Tamil",
+      "subject": "VOL - II (MATHS)",
+      "term": "Term-I",
+      "title": "7 Std Tamil VOL - II (MATHS) Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/7 std/Tamil/VOL - II (MATHS)/Term-I.pdf"
+    },
+    {
+      "standard": 7,
+      "medium": "Telugu",
+      "subject": "TELUGU READER",
+      "term": "Term-I",
+      "title": "7 Std Telugu TELUGU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/7 std/Telugu/TELUGU READER/Term-I.pdf"
+    },
+    {
+      "standard": 7,
+      "medium": "Urdu",
+      "subject": "URDU READER",
+      "term": "Term-I",
+      "title": "7 Std Urdu URDU READER Term-I",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/7 std/Urdu/URDU READER/Term-I.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "Arabic",
+      "subject": "Arabic Reader",
+      "term": "Term-Full",
+      "title": "8 Std Arabic Arabic Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/Arabic/Arabic Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "English",
+      "subject": "English",
+      "term": "Term-Full",
+      "title": "8 Std English English Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/English/English/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "English",
+      "subject": "Mathematics",
+      "term": "Term-Full",
+      "title": "8 Std English Mathematics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/English/Mathematics/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "French",
+      "subject": "French Reader",
+      "term": "Term-Full",
+      "title": "8 Std French French Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/French/French Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "Hindi",
+      "subject": "Hindi Reader",
+      "term": "Term-Full",
+      "title": "8 Std Hindi Hindi Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/Hindi/Hindi Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "Kannada",
+      "subject": "Kannada Reader",
+      "term": "Term-Full",
+      "title": "8 Std Kannada Kannada Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/Kannada/Kannada Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "Malayalam",
+      "subject": "Mathematics",
+      "term": "Term-Full",
+      "title": "8 Std Malayalam Mathematics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/Malayalam/Mathematics/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "Malayalam",
+      "subject": "Science",
+      "term": "Term-Full",
+      "title": "8 Std Malayalam Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/Malayalam/Science/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "Tamil",
+      "subject": "Mathematics",
+      "term": "Term-Full",
+      "title": "8 Std Tamil Mathematics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/Tamil/Mathematics/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "Telugu",
+      "subject": "Mathematics",
+      "term": "Term-Full",
+      "title": "8 Std Telugu Mathematics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/Telugu/Mathematics/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "Telugu",
+      "subject": "Science",
+      "term": "Term-Full",
+      "title": "8 Std Telugu Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/Telugu/Science/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "Telugu",
+      "subject": "Telugu Reader",
+      "term": "Term-Full",
+      "title": "8 Std Telugu Telugu Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/Telugu/Telugu Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "Urdu",
+      "subject": "Mathematics",
+      "term": "Term-Full",
+      "title": "8 Std Urdu Mathematics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/Urdu/Mathematics/Term-Full.pdf"
+    },
+    {
+      "standard": 8,
+      "medium": "Urdu",
+      "subject": "Urdu Reader",
+      "term": "Term-Full",
+      "title": "8 Std Urdu Urdu Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/8 std/Urdu/Urdu Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "Arabic",
+      "subject": "Arabic Reader",
+      "term": "Term-Full",
+      "title": "9 Std Arabic Arabic Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/Arabic/Arabic Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "English",
+      "subject": "Mathematics",
+      "term": "Term-Full",
+      "title": "9 Std English Mathematics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/English/Mathematics/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "English",
+      "subject": "Science",
+      "term": "Term-Full",
+      "title": "9 Std English Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/English/Science/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "French",
+      "subject": "French Reader",
+      "term": "Term-Full",
+      "title": "9 Std French French Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/French/French Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "Hindi",
+      "subject": "Hindi Reader",
+      "term": "Term-Full",
+      "title": "9 Std Hindi Hindi Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/Hindi/Hindi Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "Kannada",
+      "subject": "Kannada Reader",
+      "term": "Term-Full",
+      "title": "9 Std Kannada Kannada Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/Kannada/Kannada Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "Malayalam",
+      "subject": "Science",
+      "term": "Term-Full",
+      "title": "9 Std Malayalam Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/Malayalam/Science/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "Tamil",
+      "subject": "Mathematics",
+      "term": "Term-Full",
+      "title": "9 Std Tamil Mathematics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/Tamil/Mathematics/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "Tamil",
+      "subject": "Science",
+      "term": "Term-Full",
+      "title": "9 Std Tamil Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/Tamil/Science/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "Tamil",
+      "subject": "Tamil",
+      "term": "Term-Full",
+      "title": "9 Std Tamil Tamil Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/Tamil/Tamil/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "Telugu",
+      "subject": "Mathematics",
+      "term": "Term-Full",
+      "title": "9 Std Telugu Mathematics Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/Telugu/Mathematics/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "Telugu",
+      "subject": "Science",
+      "term": "Term-Full",
+      "title": "9 Std Telugu Science Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/Telugu/Science/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "Telugu",
+      "subject": "Telugu Reader",
+      "term": "Term-Full",
+      "title": "9 Std Telugu Telugu Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/Telugu/Telugu Reader/Term-Full.pdf"
+    },
+    {
+      "standard": 9,
+      "medium": "Urdu",
+      "subject": "Urdu Reader",
+      "term": "Term-Full",
+      "title": "9 Std Urdu Urdu Reader Term-Full",
+      "source_file": "/Users/karthickrajan/.openclaw/workspace/ameer test folders/9 std/Urdu/Urdu Reader/Term-Full.pdf"
+    }
+  ]
+}
